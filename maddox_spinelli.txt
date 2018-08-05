@@ -1,1 +1,5 @@
-maddox spinelli
+This is a test repository for Maddox Spinelli. 
+It was created on August 3rd, 2018 using the nano text editor in terminal
+
+
+
